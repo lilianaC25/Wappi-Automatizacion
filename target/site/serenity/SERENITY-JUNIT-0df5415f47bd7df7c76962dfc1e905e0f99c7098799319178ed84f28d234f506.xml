@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="3" name="Actualizar informacion dentro del Perfil" skipped="0" tests="3" time="15.55" timestamp="2021-09-19 02:31:10"><testcase name="Validar la Obligatoriedad de los campos del perfil"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/perfil.feature:11)&#13;
+</system-err></testcase><testcase name="Validar registro del perfil"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/perfil.feature:11)&#13;
+</system-err></testcase><testcase name="Validar campos inicializados del perfil"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/perfil.feature:11)&#13;
+</system-err></testcase></testsuite>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="6" name="Pedir una orden con y sin el cupón de bienvenida" skipped="0" tests="6" time="48.39" timestamp="2021-09-19 02:30:21"><testcase name="Validar la solicitud de una orden de pedido"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)&#13;
+</system-err></testcase><testcase name="Validar la solicitud de una orden con cupón de bienvenida"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)&#13;
+</system-err></testcase><testcase name="Validar la solicitud de una orden sin cupón de bienvenida"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)&#13;
+</system-err></testcase><testcase name="Verificar validez de cupon"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)&#13;
+</system-err></testcase><testcase name="Verificar ingreso del cupon maximo 2 veces"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)&#13;
+</system-err></testcase><testcase name="Validar la informacion del Pedido"><failure message="&#10;Expected: is &quot;Inicio&quot;&#10;     but: was null" type="java.lang.AssertionError">
+Expected: is "Inicio"
+     but: was null</failure><system-err>
+Expected: is "Inicio"
+     but: was null&#13;
+app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)&#13;
+✽.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)&#13;
+</system-err></testcase></testsuite>

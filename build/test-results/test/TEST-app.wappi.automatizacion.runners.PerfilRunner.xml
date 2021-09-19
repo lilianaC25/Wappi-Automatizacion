@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="app.wappi.automatizacion.runners.PerfilRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="LAPTOP-QAEL2JLR" time="0.0">
+  <properties/>
+  <system-out><![CDATA[
+?[31mFailed scenarios:?[0m
+?[31msrc/test/resources/features/pedidos.feature:14 ?[0m# Validar la solicitud de una orden de pedido
+?[31msrc/test/resources/features/pedidos.feature:20 ?[0m# Validar la solicitud de una orden con cupón de bienvenida
+?[31msrc/test/resources/features/pedidos.feature:27 ?[0m# Validar la solicitud de una orden sin cupón de bienvenida
+?[31msrc/test/resources/features/pedidos.feature:33 ?[0m# Verificar validez de cupon
+?[31msrc/test/resources/features/pedidos.feature:40 ?[0m# Verificar ingreso del cupon maximo 2 veces
+?[31msrc/test/resources/features/pedidos.feature:46 ?[0m# Validar la informacion del Pedido
+?[31msrc/test/resources/features/perfil.feature:15 ?[0m# Validar la Obligatoriedad de los campos del perfil
+?[31msrc/test/resources/features/perfil.feature:21 ?[0m# Validar registro del perfil
+?[31msrc/test/resources/features/perfil.feature:29 ?[0m# Validar campos inicializados del perfil
+
+9 Scenarios (?[31m9 failed?[0m)
+56 Steps (?[31m9 failed?[0m, ?[36m29 skipped?[0m, ?[32m18 passed?[0m)
+1m4,697s
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/pedidos.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/perfil.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/perfil.feature:11)
+
+java.lang.AssertionError: 
+Expected: is "Inicio"
+     but: was null
+	at net.serenitybdd.screenplay.ErrorTally.throwSummaryExceptionFrom(ErrorTally.java:36)
+	at net.serenitybdd.screenplay.ErrorTally.reportAnyErrors(ErrorTally.java:30)
+	at net.serenitybdd.screenplay.Actor.should(Actor.java:231)
+	at app.wappi.automatizacion.stepdefinitions.PedidosStepDefinition.seValidaElIngresoALaPagina(PedidosStepDefinition.java:36)
+	at ?.Se valida el ingreso a la pagina "Inicio"(src/test/resources/features/perfil.feature:11)
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
